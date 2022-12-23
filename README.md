@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesamarthrai
 - 👀 I’m interested in Fronted development
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning Node.Js
 - 📫 How to reach me :- raisamarth19@gmail.com
 
 <!---raisamarth19@gmail.com
